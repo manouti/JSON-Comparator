@@ -1,0 +1,7 @@
+{
+    "name": "john", 
+    "score": 5.1,
+    "toto": {
+       "tata": 3.1
+    }
+}

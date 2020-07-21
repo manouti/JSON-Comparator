@@ -1,0 +1,4 @@
+[
+     { "type": "numeric", "path": "/score", "tolerance": 0.2 },
+     { "type": "exclude", "path": "/name" }
+]
