@@ -8,7 +8,7 @@
 
     <properties>
         <jackson.version>2.10.4</jackson.version>
-        <log4j.version>2.11.2</log4j.version>
+        <log4j.version>2.13.2</log4j.version>
     </properties>
 
     <build>
@@ -37,7 +37,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>18.0</version>
+            <version>24.1.1-jre</version>
         </dependency>
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
