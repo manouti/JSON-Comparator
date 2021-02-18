@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
     <properties>
-        <jackson.version>2.10.4</jackson.version>
+        <jackson.version>2.10.5.1</jackson.version>
         <log4j.version>2.13.2</log4j.version>
     </properties>
 
